@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1009015540255",
+    "firebase_url": "https://industrialsafety-269a6.firebaseio.com",
+    "project_id": "industrialsafety-269a6",
+    "storage_bucket": "industrialsafety-269a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009015540255:android:bd6405c7909752a1",
+        "android_client_info": {
+          "package_name": "com.example.porag.accelometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009015540255-u47blfa1e7qqijffaubmoi5f0lmej18f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.porag.accelometer",
+            "certificate_hash": "63ff32d97f3161a2d314aeec79a25f5797f85a25"
+          }
+        },
+        {
+          "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnv0QjZNAsfGAJs9BVdDaLXq09Wk3Vsnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009015540255:android:bda75a0f2b76c428",
+        "android_client_info": {
+          "package_name": "com.example.porag.industrialsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009015540255-ofpnmlcfp1a4uoq30djtl2cuuus6a1f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.porag.industrialsafety",
+            "certificate_hash": "63ff32d97f3161a2d314aeec79a25f5797f85a25"
+          }
+        },
+        {
+          "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnv0QjZNAsfGAJs9BVdDaLXq09Wk3Vsnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009015540255:android:dcbdc3e5e75827bb",
+        "android_client_info": {
+          "package_name": "com.example.porag.soundmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009015540255-amvj88nqvhbmp1ldnt68en07pthp0bp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.porag.soundmeter",
+            "certificate_hash": "63ff32d97f3161a2d314aeec79a25f5797f85a25"
+          }
+        },
+        {
+          "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnv0QjZNAsfGAJs9BVdDaLXq09Wk3Vsnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009015540255-iin3amcl92hu4kubutclgk6186k27b2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
